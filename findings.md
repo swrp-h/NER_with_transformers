@@ -3,4 +3,5 @@ For the purpose of this task, we do not consider accuracy given the typical imba
 The base model chosen for the task was a DistilBERT, a smaller, faster version of BERT with 40% less parameters (1), which can imply that finetuning an original BERT may result in a better performance. Continued experimentation can help test this. The model was also finetuned with default hyperparameters recommended by Hugging Face (2), and further optimization of these hyperparameters can result in even better, state-of-the-art results.
 
 (1) https://huggingface.co/docs/transformers/model_doc/distilbert
+
 (2) https://huggingface.co/docs/transformers/main/tasks/token_classification
