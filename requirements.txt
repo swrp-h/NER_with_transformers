@@ -3,3 +3,4 @@ datasets
 accelerate
 evaluate
 seqeval
+pandas
