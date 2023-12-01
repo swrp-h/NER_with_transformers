@@ -4,10 +4,19 @@ This repository contains code for training and evaluating Named Entity Recogniti
 
 ## Environmental Setup
 
-Create a virtual environment and install the required dependencies (see requirements.txt)
+Create a virtual environment and install the required dependencies
+
+```
+pip install -r requirements.txt
+```
+
 OR
 Use Google colaboratory and uncomment the installations cell.
 
 ## Code
 
 Run multinerd_ner_systemA to build System A and evaluate it on the test dataset. Repeat for System B with multinerd_ner_systemB.
+
+## Primary Findings
+
+See findings.txt for a short commentary on the systems' performance
