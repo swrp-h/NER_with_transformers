@@ -19,4 +19,4 @@ Run multinerd_ner_systemA to build System A and evaluate it on the test dataset.
 
 ## Primary Findings
 
-See findings.txt for a short commentary on the systems' performance
+See findings.md for a short commentary on the systems' performance.
